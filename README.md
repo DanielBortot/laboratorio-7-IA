@@ -10,7 +10,7 @@ Este es el repositorio del laboratorio 7 donde se usa un modelo de Machine Learn
     </tbody>
 </table>
 
-## Creacion del Ambiente Virtual e instalacion de dependencias
+## Creacion del Ambiente Virtual e instalación de dependencias
 
 ```bash
 # Crear entorno virtual
