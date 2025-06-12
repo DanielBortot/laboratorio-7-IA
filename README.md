@@ -31,3 +31,5 @@ $ pip install torch torchvision torchaudio --index-url https://download.pytorch.
 $ pip install datasets transformers jiwer librosa spacy pydub pyspellchecker
 $ python -m spacy download es_core_news_sm
 ```
+## Video Transcrito
+https://www.youtube.com/watch?v=mR54dwffinw
